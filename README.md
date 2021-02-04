@@ -16,15 +16,15 @@ TODO
   <p align="center">
     Python library to request the Sirene API
     <br />
-    <a href="./wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!--
     <a href="">View Demo</a>
     · -->
-    <a href="./issues">Report Bug</a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/issues">Report Bug</a>
     ·
-    <a href="./issues">Request Feature</a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/issues">Request Feature</a>
   </p>
 </p>
 
@@ -58,8 +58,6 @@ The use of this API requires authentication : https://api.insee.fr/
 
 This python library allows to connect to the INSEE Sirene database with the sirene API easily.
 * [Officiel Sirene API documentation](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=Sirene&version=V3&provider=insee)
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
 <!--
   ### Built With
   This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -97,7 +95,7 @@ Todo
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](./issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/3r1cd3ma/SirenePy/issues) for a list of proposed features (and known issues).
 
 
 
@@ -125,7 +123,7 @@ Distributed under the GNU 3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Eric DEMARIA - [/in/edemaria]([linkedin-url]) - edemaria@mailo.com
+Eric DEMARIA - [/in/edemaria](https://linkedin.com/in/edemaria) - edemaria@mailo.com
 
 Project Link: [https://github.com/3r1cd3ma/SirenePy/projects](https://github.com/3r1cd3ma/SirenePy/projects)
 
