@@ -125,9 +125,9 @@ Distributed under the GNU 3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Eric DEMARIA - [/in/edemaria]([linkedin-url]) - email@example.com
+Eric DEMARIA - [/in/edemaria]([linkedin-url]) - edemaria@mailo.com
 
-Project Link: [https://github.com/3r1cd3ma/SirenePy](https://github.com/3r1cd3ma/SirenePy)
+Project Link: [https://github.com/3r1cd3ma/SirenePy/projects](https://github.com/3r1cd3ma/SirenePy/projects)
 
 
 
