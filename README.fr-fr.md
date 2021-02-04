@@ -16,15 +16,15 @@ TODO
   <p align="center">
     Librairie python pour intérroger l'API Sirene
     <br />
-    <a href="./wiki"><strong>Voir la documentation »</strong></a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/wiki"><strong>Voir la documentation »</strong></a>
     <br />
     <br />
     <!--
     <a href="">View Demo</a>
     · -->
-    <a href="./issues">Rapport Bug</a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/issues">Rapport Bug</a>
     ·
-    <a href="./issues">Demande fonctionnalité</a>
+    <a href="https://github.com/3r1cd3ma/SirenePy/issues">Demande fonctionnalité</a>
   </p>
 </p>
 
@@ -96,7 +96,7 @@ Todo
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](./issues) for a list of proposed features (and known issues).
+Consultez les [points en cours](https://github.com/3r1cd3ma/SirenePy/issues) pour une liste des fonctionnalités proposées (et des problèmes connus).
 
 
 
@@ -124,7 +124,7 @@ Distribué sous la licence GNU 3.0. Voir `LICENSE` pour plus d'informations.
 <!-- CONTACT -->
 ## Contact
 
-Eric DEMARIA - [/in/edemaria]([linkedin-url]) - edemaria@mailo.com
+Eric DEMARIA - [/in/edemaria](https://linkedin.com/in/edemaria) - edemaria@mailo.com
 
 Project Link: [https://github.com/3r1cd3ma/SirenePy/projects](https://github.com/3r1cd3ma/SirenePy/projects)
 
