@@ -1,9 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![gpl-3.0 License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--BADGES
+TODO
+-->
 
 <!-- PROJECT PRESENTIATION -->
 <br />
@@ -48,7 +45,6 @@
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#acknowledgements">Acknowledgements</a></li>
 </details>
 
 
@@ -73,8 +69,14 @@ There are many great README templates available on GitHub, however, I didn't fin
   -->
 
 
+
 <!-- GETTING STARTED -->
 ## Getting Started
+
+Todo
+
+
+### Prerequisites
 
 Todo
 
@@ -83,15 +85,20 @@ Todo
 
 Todo
 
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Todo
 
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](./issues) for a list of proposed features (and known issues).
+
 
 
 <!-- CONTRIBUTING -->
@@ -107,18 +114,20 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the GNU 3.0 License. See `LICENSE` for more information.
 
 
+
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Eric DEMARIA - [/in/edemaria]([linkedin-url]) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/3r1cd3ma/SirenePy](https://github.com/3r1cd3ma/SirenePy)
 
 
 
